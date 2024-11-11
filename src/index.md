@@ -17,7 +17,7 @@ Software Engineer passionate about building event-driven services and scalable, 
 
 ### Experience
 
-- **DailPay**: Developing backend services and APIs using Golang, gRPC, DynamoDB, Kafka, and socket clusters, focusing on high-performance, event-driven architectures.
+- **DailyPay**: Developing backend services and APIs using Golang, gRPC, DynamoDB, Kafka, and socket clusters, focusing on high-performance, event-driven architectures.
 - **Rapid7**: Built and managed a microservices ecosystem with Java, Spring, PostgreSQL, and AWS infrastructure (ECR, RDS, EC2, Lambda). Worked on vulnerability data solutions, web scraping with Python and AWS Lambda, and modernizing legacy systems in Ruby.
 - Mentored team members, led engineering initiatives to improve internal services, and implemented automation tools using Python packages and tools like Poetry, black, mypy, and Dependabot.
 

@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odhran McGranaghan | Software Developer</title>
+    <title>{{ title }}</title>
     <style>
       body {
         margin: 40px auto;
@@ -45,30 +45,7 @@
     </style>
   </head>
   <body>
-    <h1>odhran mcgranaghan</h1>
-<h2>software developer | human | website haver</h2>
-<h3>working at</h3>
-<ul>
-<li><a href="https://www.dailypay.com/">DailyPay</a></li>
-</ul>
-<h3>learning atm</h3>
-<ul>
-<li><a href="https://notes.stephenholiday.com/Kafka.pdf">Kafka</a></li>
-<li><a href="#">gRPC Service Design</a></li>
-</ul>
-<h3>reading atm</h3>
-<ul>
-<li><a href="https://www.goodreads.com/book/show/37976541-bad-blood">Bad Blood - Secrets and Lies in a Silicon Valley Startup by John Carreyrou</a></li>
-<li><a href="https://dataintensive.net/">Designing Data-Intensive Applications by Martin Kleppmann</a></li>
-</ul>
-<h3>link dump</h3>
-<ul>
-<li><a href="https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life">Obituary for a Quiet Life, great read</a></li>
-<li><a href="https://grugbrain.dev/">Grugbrain.me, me read many times</a></li>
-</ul>
-<h3>Blog</h3>
-<p>Coming soon... Blog post on how to make a laughably bad homepage like this.</p>
-
+    {{ content | safe }}
   </body>
 </html>
 

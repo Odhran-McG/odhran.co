@@ -12,4 +12,11 @@ There are IP address record types, but the two that we care about are A and AAAA
 Here are the values you need to add to the DNS records of your domain registrar. 
 
 |Host|Type|Value|
-|test|test|test|
+|@|A|185.199.108.153|
+|@|A|185.199.109.153|
+|@|A|185.199.110.153|
+|@|A|185.199.111.153|
+|@|AAAA|2606:50c0:8000::153|
+|@|AAAA|2606:50c0:8001::153|
+|@|AAAA|2606:50c0:8002::153|
+|@|AAAA|2606:50c0:8003::153|
